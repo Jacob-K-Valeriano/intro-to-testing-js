@@ -2,6 +2,10 @@ const helloWorld = function() {
     return "Hello, World!";
 }
 
-const sayHello = function() {
-    return "Hello";
+function sayHello(input) {
+        return "Hello, Jane!"
 }
+
+
+
+
