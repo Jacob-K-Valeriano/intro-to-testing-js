@@ -4,7 +4,7 @@ const helloWorld = function() {
 
 
 function sayHello(input) {
-    return "" + input;
+    return "Hello " + input + "!";
 }
 
 
